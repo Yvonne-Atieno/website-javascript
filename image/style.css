@@ -1,0 +1,69 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+/* .body{
+    background-color: blueviolet;
+    justify-content: center; */
+
+.purple{
+    background-color: purple;
+    display: flex;
+}
+.white{
+    color: white;
+    margin-left: 55px;
+    
+}
+.red{
+    background-color: pink;
+    color: white;
+
+}
+.orange{
+    
+    text-align: center;
+    
+    
+}
+.tops{
+   display: flex; 
+   margin-left: 45% ;
+    
+
+}
+.hive{
+    display: flex;
+    gap: 60px;
+    margin-left: 30px;
+}
+.redd{
+    background-color: pink;
+    color: white;
+    text-align: center;
+
+}
+.image2{
+    display: flex;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
